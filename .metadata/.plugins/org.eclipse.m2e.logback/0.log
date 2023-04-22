@@ -1,0 +1,677 @@
+2023-04-15 20:38:59,229 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-15 20:39:20,934 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-04-15 20:40:30,340 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-15 20:40:31,765 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:31,773 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-15 20:40:31,821 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:31,822 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-15 20:40:32,143 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeCommon:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/pom.xml.
+2023-04-15 20:40:32,273 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-15 20:40:32,725 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:40:32,893 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:32,893 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/main/resources
+2023-04-15 20:40:32,897 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:32,897 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/test/resources
+2023-04-15 20:40:32,965 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-15 20:40:33,297 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-15 20:40:33,334 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:40:33,886 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-15 20:40:34,191 [Worker-13: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:40:34,848 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:34,849 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-15 20:40:34,877 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:34,878 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-15 20:40:36,178 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:36,181 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-15 20:40:36,185 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:36,186 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-15 20:40:36,525 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:36,526 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-15 20:40:36,532 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:40:36,532 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-15 20:40:52,696 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/2.6.3/spring-boot-starter-thymeleaf-2.6.3-javadoc.jar
+2023-04-15 20:40:52,701 [Worker-10: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.boot:spring-boot-starter-thymeleaf:2.6.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-thymeleaf:jar:javadoc:2.6.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-15 20:40:52,708 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring5/3.0.14.RELEASE/thymeleaf-spring5-3.0.14.RELEASE-javadoc.jar
+2023-04-15 20:40:52,709 [Worker-10: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.thymeleaf:thymeleaf-spring5:3.0.14.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.thymeleaf:thymeleaf-spring5:jar:javadoc:3.0.14.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-15 20:40:52,716 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.14.RELEASE/thymeleaf-3.0.14.RELEASE-javadoc.jar
+2023-04-15 20:40:52,717 [Worker-10: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.thymeleaf:thymeleaf:3.0.14.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.thymeleaf:thymeleaf:jar:javadoc:3.0.14.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-15 20:40:52,725 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-javadoc.jar
+2023-04-15 20:40:52,726 [Worker-10: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.slf4j:slf4j-api:1.7.30
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.slf4j:slf4j-api:jar:javadoc:1.7.30
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-15 20:40:52,733 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/2.7.4/spring-boot-starter-thymeleaf-2.7.4-javadoc.jar
+2023-04-15 20:40:52,734 [Worker-10: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.boot:spring-boot-starter-thymeleaf:2.7.4
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.boot:spring-boot-starter-thymeleaf:jar:javadoc:2.7.4
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-15 20:40:52,742 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring5/3.0.15.RELEASE/thymeleaf-spring5-3.0.15.RELEASE-javadoc.jar
+2023-04-15 20:40:52,743 [Worker-10: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.thymeleaf:thymeleaf-spring5:3.0.15.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.thymeleaf:thymeleaf-spring5:jar:javadoc:3.0.15.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-15 20:40:52,749 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.15.RELEASE/thymeleaf-3.0.15.RELEASE-javadoc.jar
+2023-04-15 20:40:52,750 [Worker-10: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.thymeleaf:thymeleaf:3.0.15.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.thymeleaf:thymeleaf:jar:javadoc:3.0.15.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-15 20:47:06,560 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-15 20:47:27,285 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-04-15 20:51:39,459 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-15 20:51:40,517 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeCommon:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/pom.xml.
+2023-04-15 20:51:40,530 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-15 20:51:40,789 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-15 20:51:40,850 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:51:40,895 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-15 20:51:40,957 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:51:41,533 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopmeCommon/src/main/java
+2023-04-15 20:51:41,534 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopmeCommon/src/test/java
+2023-04-15 20:51:41,599 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopmeBackEnd/src/main/java
+2023-04-15 20:51:41,599 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ShopmeBackEnd/src/main/resources
+2023-04-15 20:51:41,600 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopmeBackEnd/src/test/java
+2023-04-15 20:51:41,600 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ShopmeBackEnd/src/test/resources
+2023-04-15 20:51:41,734 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shopmeFrontEnd1/src/main/java
+2023-04-15 20:51:41,735 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /shopmeFrontEnd1/src/main/resources
+2023-04-15 20:51:41,736 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shopmeFrontEnd1/src/test/java
+2023-04-15 20:51:41,736 [Worker-0: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /shopmeFrontEnd1/src/test/resources
+2023-04-15 20:51:42,278 [Worker-0: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-04-15 20:51:42,527 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:51:42,527 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/main/resources
+2023-04-15 20:51:42,531 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:51:42,531 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/test/resources
+2023-04-15 20:51:43,002 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:51:43,010 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-15 20:51:43,018 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:51:43,019 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-15 20:51:43,102 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:51:43,103 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-15 20:51:43,106 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-15 20:51:43,107 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-15 20:52:02,312 [Worker-0: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:53:28,907 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-15 20:53:31,104 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:53:31,773 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:54:34,336 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-15 20:54:36,692 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:54:37,615 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-15 20:54:50,405 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-04-15 21:00:20,042 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-04-15 21:02:38,390 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [264])
+2023-04-15 21:02:38,397 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-04-15 21:02:38,399 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2023-04-15 21:02:38,400 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2023-04-15 21:02:38,400 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2023-04-15 21:02:38,400 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2023-04-15 21:02:38,400 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2023-04-15 21:02:38,400 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2023-04-15 21:02:38,400 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2023-04-15 21:02:38,400 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2023-04-15 21:02:38,401 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2023-04-15 21:02:38,401 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2023-04-15 21:02:38,401 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2023-04-15 21:02:38,401 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2023-04-15 21:02:38,401 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2023-04-15 21:02:38,401 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2023-04-15 21:02:38,401 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2023-04-15 21:02:38,402 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2023-04-15 21:02:38,403 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2023-04-15 21:02:38,404 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2023-04-15 21:02:38,404 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2023-04-15 21:02:38,404 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2023-04-15 21:02:38,405 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2023-04-15 21:02:38,406 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2023-04-15 21:02:38,408 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2023-04-15 21:02:38,409 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2023-04-15 21:02:38,409 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2023-04-15 21:02:38,410 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2023-04-15 21:02:38,410 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2023-04-15 21:02:38,410 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2023-04-15 21:02:38,410 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2023-04-15 21:02:38,410 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2023-04-15 21:02:38,413 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-04-15 21:02:38,415 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2023-04-15 21:02:38,415 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [426])
+2023-04-15 21:02:38,416 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/slf4j.api_1.7.36.jar
+2023-04-15 21:02:38,416 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-04-15 21:02:38,418 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2023-04-15 21:02:38,419 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-04-15 21:02:38,420 [Worker-1: Launching ShopmeBackEnd] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2023-04-15 21:02:38,424 [Worker-1: Launching ShopmeBackEnd] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd":
+2023-04-15 21:02:38,428 [Worker-1: Launching ShopmeBackEnd] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -o -Dstyle.color=always 
+2023-04-19 15:29:08,410 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-19 15:29:17,345 [Worker-7: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 15:29:20,599 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-04-19 17:05:06,544 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:05:06,553 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/main/resources
+2023-04-19 17:05:06,560 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:05:06,560 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/test/resources
+2023-04-19 17:05:07,295 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:05:07,300 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 17:05:07,349 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:05:07,350 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:05:07,709 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-19 17:05:07,844 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-19 17:05:07,928 [Worker-19: Launching ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-19 17:05:08,723 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:05:08,800 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:05:08,801 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 17:05:08,852 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:05:08,853 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:12:57,064 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-19 17:19:58,183 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 17:32:09,897 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:32:09,987 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/main/resources
+2023-04-19 17:32:09,991 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:32:09,991 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/test/resources
+2023-04-19 17:32:11,341 [Worker-17: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:32:11,362 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:32:11,367 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 17:32:11,392 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:32:11,393 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:32:11,721 [Worker-17: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:32:11,767 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:32:11,768 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 17:32:11,770 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:32:11,771 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:33:17,548 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-19 17:33:29,912 [Worker-20: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/4.3.1/webjars-locator-core-4.3.1.pom
+2023-04-19 17:33:29,914 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.webjars:webjars-locator-core:jar:4.3.1 is missing, no dependency information available
+2023-04-19 17:33:30,019 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1.jar
+2023-04-19 17:33:30,744 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/4.3.1/webjars-locator-core-4.3.1.jar
+2023-04-19 17:33:49,211 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1.jar
+2023-04-19 17:33:50,131 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-19 17:33:50,162 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:33:50,227 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-19 17:33:50,265 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:33:50,793 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:33:50,795 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:33:50,800 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:33:50,801 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:33:51,869 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:33:51,869 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:33:51,872 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:33:51,873 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:33:52,333 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1-sources.jar
+2023-04-19 17:33:52,496 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.3.1/bootstrap-4.3.1-sources.jar
+2023-04-19 17:33:52,498 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:bootstrap:4.3.1
+2023-04-19 17:33:52,781 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3-sources.jar
+2023-04-19 17:33:52,784 [Worker-22: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.webjars:popper.js:1.14.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:popper.js:jar:sources:1.14.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-19 17:33:53,134 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1-sources.jar
+2023-04-19 17:33:53,266 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.4.1/jquery-3.4.1-sources.jar
+2023-04-19 17:33:53,267 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.4.1
+2023-04-19 17:33:54,073 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/4.3.1/webjars-locator-core-4.3.1-sources.jar
+2023-04-19 17:33:54,074 [Worker-22: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.webjars:webjars-locator-core:4.3.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:webjars-locator-core:jar:sources:4.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-19 17:33:54,077 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:bootstrap:4.3.1
+2023-04-19 17:33:54,691 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3-javadoc.jar
+2023-04-19 17:33:55,083 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/popper.js/1.14.3/popper.js-1.14.3-javadoc.jar
+2023-04-19 17:33:55,084 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.webjars:popper.js:1.14.3
+2023-04-19 17:33:55,086 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.4.1
+2023-04-19 17:33:55,711 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/4.3.1/webjars-locator-core-4.3.1-javadoc.jar
+2023-04-19 17:33:55,712 [Worker-22: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.webjars:webjars-locator-core:4.3.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:webjars-locator-core:jar:javadoc:4.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-19 17:33:55,714 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:bootstrap:4.3.1
+2023-04-19 17:33:55,717 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.4.1
+2023-04-19 17:33:56,089 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:33:56,089 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:33:56,094 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:33:56,094 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:33:56,110 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:33:56,110 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:33:56,115 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:33:56,115 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:39:35,086 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-19 17:39:35,414 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-19 17:39:35,436 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:39:35,464 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-19 17:39:35,520 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:41:28,220 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [264])
+2023-04-19 17:41:28,496 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2023-04-19 17:41:28,497 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2023-04-19 17:41:28,498 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2023-04-19 17:41:28,499 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2023-04-19 17:41:28,499 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2023-04-19 17:41:28,499 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2023-04-19 17:41:28,500 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-04-19 17:41:28,610 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2023-04-19 17:41:28,610 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [426])
+2023-04-19 17:41:28,611 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/slf4j.api_1.7.36.jar
+2023-04-19 17:41:28,611 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-04-19 17:41:28,713 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2023-04-19 17:41:28,714 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-04-19 17:41:28,714 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2023-04-19 17:41:28,810 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent":
+2023-04-19 17:41:29,029 [Worker-24: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-04-19 17:55:11,171 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-19 17:55:11,836 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.webjars:webjars-locator-core:jar:>0.45 is missing, no dependency information available
+2023-04-19 17:55:13,047 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-19 17:55:13,245 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:55:13,338 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-19 17:55:13,570 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 17:55:14,879 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:55:14,935 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 17:55:14,973 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:55:14,974 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:55:16,125 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:55:16,217 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 17:55:16,267 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 17:55:16,268 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 17:55:17,490 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/>0.45/webjars-locator-core->0.45-sources.jar
+2023-04-19 17:55:17,491 [Worker-28: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.webjars:webjars-locator-core:>0.45
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:webjars-locator-core:jar:sources:>0.45
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-19 17:55:18,135 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/>0.45/webjars-locator-core->0.45-javadoc.jar
+2023-04-19 17:55:18,136 [Worker-28: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.webjars:webjars-locator-core:>0.45
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:webjars-locator-core:jar:javadoc:>0.45
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-04-19 17:56:57,178 [Worker-28: Launching Executing clean in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent":
+2023-04-19 17:56:57,178 [Worker-28: Launching Executing clean in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-04-19 18:00:00,574 [Worker-36: Launching Executing clean in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent":
+2023-04-19 18:00:00,574 [Worker-36: Launching Executing clean in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-04-19 18:00:41,509 [Worker-37: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent":
+2023-04-19 18:00:41,510 [Worker-37: Launching Executing install in _home_nzima-ubuntu_Documents_ShopmeProject_ShopmeWebParent] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-04-19 18:01:06,110 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-19 18:01:06,488 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-19 18:01:06,519 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 18:01:06,550 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-19 18:01:06,609 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 18:01:07,066 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:01:07,067 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 18:01:07,072 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:01:07,076 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 18:01:09,388 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:01:09,388 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 18:01:09,399 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:01:09,399 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 18:01:13,955 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.45/webjars-locator-core-0.45-sources.jar
+2023-04-19 18:01:14,652 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.45/webjars-locator-core-0.45-sources.jar
+2023-04-19 18:01:14,653 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:webjars-locator-core:0.45
+2023-04-19 18:01:15,218 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.29/slf4j-api-1.7.29-sources.jar
+2023-04-19 18:01:15,400 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.29/slf4j-api-1.7.29-sources.jar
+2023-04-19 18:01:15,401 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.29
+2023-04-19 18:01:15,707 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.69/classgraph-4.8.69-sources.jar
+2023-04-19 18:01:16,425 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.69/classgraph-4.8.69-sources.jar
+2023-04-19 18:01:16,426 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.classgraph:classgraph:4.8.69
+2023-04-19 18:01:16,729 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0-sources.jar
+2023-04-19 18:01:17,387 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.10.0/jackson-core-2.10.0-sources.jar
+2023-04-19 18:01:17,388 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.10.0
+2023-04-19 18:01:17,390 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:webjars-locator-core:0.45
+2023-04-19 18:01:17,391 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.29
+2023-04-19 18:01:17,392 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.classgraph:classgraph:4.8.69
+2023-04-19 18:01:17,394 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.10.0
+2023-04-19 18:01:17,429 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:webjars-locator-core:0.45
+2023-04-19 18:01:17,431 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.29
+2023-04-19 18:01:17,432 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.classgraph:classgraph:4.8.69
+2023-04-19 18:01:17,434 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.10.0
+2023-04-19 18:01:17,757 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:01:17,757 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 18:01:17,760 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:01:17,761 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 18:01:17,770 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:01:17,771 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 18:01:17,773 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:01:17,774 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 18:26:57,693 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:26:57,770 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-19 18:26:57,778 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 18:26:57,779 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 18:38:26,593 [Worker-50: Retrieving catalog resource] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->https://marketplace.eclipse.org:443
+2023-04-19 18:38:31,070 [Worker-61: Retrieving catalog resource] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->https://marketplace.eclipse.org:443
+2023-04-19 19:15:07,963 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 19:15:08,032 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-19 19:15:08,036 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 19:15:08,036 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 19:15:08,245 [Worker-68: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-19 19:15:13,049 [Worker-68: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-19 19:15:15,098 [Worker-68: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 19:15:15,183 [Worker-68: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-19 19:15:15,413 [Worker-68: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-19 19:15:18,464 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 19:15:18,465 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 19:15:18,484 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 19:15:18,502 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 19:15:18,617 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 19:15:18,644 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-19 19:15:18,681 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-19 19:15:18,681 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-19 19:15:18,829 [Worker-62: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.52/webjars-locator-core-0.52-sources.jar
+2023-04-19 19:15:18,959 [Worker-62: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.52/webjars-locator-core-0.52-sources.jar
+2023-04-19 19:15:18,960 [Worker-62: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:webjars-locator-core:0.52
+2023-04-19 19:15:19,261 [Worker-62: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36-sources.jar
+2023-04-19 19:15:19,451 [Worker-62: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36-sources.jar
+2023-04-19 19:15:19,532 [Worker-62: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.36
+2023-04-19 19:15:56,970 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-19 19:16:11,497 [Worker-4: Deferred Early Start] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.eclipse.org:443
+2023-04-21 11:52:35,482 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 11:52:43,411 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeCommon:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/pom.xml.
+2023-04-21 11:52:44,750 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-21 11:52:45,804 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:52:50,595 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:52:50,608 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-21 11:52:50,651 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:52:50,658 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:52:50,774 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-21 11:52:50,928 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeCommon:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/pom.xml.
+2023-04-21 11:52:51,005 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopmeCommon/src/main/java
+2023-04-21 11:52:51,005 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopmeCommon/src/test/java
+2023-04-21 11:52:51,317 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-21 11:52:51,322 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-21 11:52:51,484 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-21 11:52:52,128 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:52:52,379 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopmeBackEnd/src/main/java
+2023-04-21 11:52:52,380 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ShopmeBackEnd/src/main/resources
+2023-04-21 11:52:52,381 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopmeBackEnd/src/test/java
+2023-04-21 11:52:52,381 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ShopmeBackEnd/src/test/resources
+2023-04-21 11:52:53,242 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-21 11:52:54,218 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-21 11:52:54,264 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:52:54,265 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/main/resources
+2023-04-21 11:52:54,268 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:52:54,269 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/test/resources
+2023-04-21 11:52:54,675 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:52:54,746 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeCommon:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/pom.xml.
+2023-04-21 11:52:54,874 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-21 11:52:55,168 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:52:55,177 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-21 11:52:55,201 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:52:55,202 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:52:55,252 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:52:55,270 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-21 11:52:55,520 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-21 11:52:55,669 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:52:56,294 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-21 11:52:56,670 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:52:58,079 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-21 11:52:58,229 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-21 11:52:58,460 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:52:58,610 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shopmeFrontEnd1/src/main/java
+2023-04-21 11:52:58,610 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /shopmeFrontEnd1/src/main/resources
+2023-04-21 11:52:58,611 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shopmeFrontEnd1/src/test/java
+2023-04-21 11:52:58,611 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /shopmeFrontEnd1/src/test/resources
+2023-04-21 11:52:58,953 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-21 11:52:59,613 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:53:00,015 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeBackEnd:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/pom.xml.
+2023-04-21 11:53:00,047 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:53:00,057 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-21 11:53:00,112 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:53:00,112 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:53:00,456 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:53:00,558 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:ShopmeCommon:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/pom.xml.
+2023-04-21 11:53:00,636 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shopme:shopmeFrontEnd1:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/shopmeFrontEnd1/pom.xml.
+2023-04-21 11:53:00,785 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 11:53:00,819 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shopme:ShopmeWebParent:1.0-SNAPSHOT @ /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeWebParent/pom.xml.
+2023-04-21 11:53:56,729 [Worker-2: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 11:53:56,774 [Worker-2: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 11:53:56,850 [Worker-2: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 11:56:18,651 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:56:18,698 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:56:18,702 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:56:18,702 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:56:19,802 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:56:19,803 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:56:19,822 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:56:19,823 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:56:54,102 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:56:54,103 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:56:54,118 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 11:56:54,119 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 11:56:54,275 [Worker-13: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 11:56:54,312 [Worker-13: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 11:56:54,350 [Worker-13: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 12:19:56,711 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-21 12:20:23,131 [Worker-7: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 12:21:02,254 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 12:21:02,254 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/main/resources
+2023-04-21 12:21:02,259 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 12:21:02,259 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nzima-ubuntu/Documents/ShopmeProject/ShopmeCommon/src/test/resources
+2023-04-21 12:21:02,901 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 12:21:02,904 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-21 12:21:02,958 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 12:21:02,958 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-21 12:21:03,273 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 12:21:03,330 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 12:21:03,432 [Worker-11: Launching ShopmeBackEnd - ShopmeBackEndApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier null to /ShopmeCommon/target/classes
+2023-04-21 12:21:04,098 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ShopmeCommon: com.shopme:ShopmeCommon:1.0-SNAPSHOT with classifier  to /ShopmeCommon/target/classes
+2023-04-21 12:21:04,261 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 12:21:04,262 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-21 12:21:04,327 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-21 12:21:04,327 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
